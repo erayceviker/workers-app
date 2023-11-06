@@ -32,4 +32,7 @@ Proje bağımlılıklarını yüklemek için aşağıdaki adımları izleyin:
 
 #### Kullanım
 
-Proje geliştirme sunucusunu başlatmak için aşağıdaki komutu kullanın: npm start
+Proje geliştirme sunucusunu başlatmak için aşağıdaki komutu kullanın: 
+
+```bash
+npm start
